@@ -1,4 +1,4 @@
-# How to Write a Comprehensive README File
+# How to Write a README File
 
 A README file is the first point of contact between your project and its users, so it's important to make it clear, informative, and well-structured. Here's a detailed guide on README syntax and structure:
 
